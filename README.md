@@ -1,7 +1,7 @@
 # Pengalaman Belajar di dicoding
 
 **29 September 2023**<br>
-Belajar Kelas Memulai pemrograman pada java (Progres 21%)
+Belajar Kelas Memulai pemrograman pada Java (Progres 21%)
 * Belajar tentang apa itu Java dan alasan menggunakannya
 * Belajar Tools yang dapat digunakan untuk menjalankan bahasa pemrograman pada Java
 

@@ -1,4 +1,4 @@
-# Pengalaman Belajar di dicoding
+# Pengalaman Belajar di Dicoding
 
 **29 September 2023**<br>
 Belajar Kelas Memulai pemrograman pada Java (Progres 21%)
